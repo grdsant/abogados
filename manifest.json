@@ -1,6 +1,6 @@
 {
-  "name": "Sinred",
-  "short_name": "Sinred",
+  "name": "Abogados",
+  "short_name": "Abogados",
   "background_color": "#22335F",
   "theme_color": "#22335F",
   "display": "standalone",
@@ -9,14 +9,14 @@
   "icons": [
 
     {
-      "src": "Logo512x512.png",
+      "src": "512x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "form_factor": "wide",
       "label": "Wonder 512x512"
     },
     {
-      "src": "Logo512x512.png",
+      "src": "512x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "form_factor": "narrow",
