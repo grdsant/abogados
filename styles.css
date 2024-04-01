@@ -115,7 +115,7 @@ nav a:hover {
 .seccion1 .card {
 	background: #fff;
 	max-width: 100%;
-	border-radius: 5px;
+	/* border-radius: 5px; */
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 5px;
@@ -129,7 +129,7 @@ nav a:hover {
 	justify-content:center;
 	align-items: center;
 	padding: 30px 50px 0px 50px;
-	border-radius:15rem;
+	border-radius:1rem;
 }
 .seccion1 .card .hyt {
 	line-height: 38px;
@@ -188,8 +188,8 @@ nav a:hover {
 	flex-direction: row;
 	justify-content:space-around;
 	align-items: center;
-	padding: 0px 50px 0px 50px;
-	border-radius:15rem;
+	padding: 0px 0px 0px 0px;
+	border-radius:1rem;
 
 }
 .seccion2 p {
